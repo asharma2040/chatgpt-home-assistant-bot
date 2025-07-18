@@ -4,7 +4,7 @@ This project brings together Home Assistant, ChatGPT, and ElevenLabs to create a
 
 ---
 
-## 🛠️ Home Assistant Supervised Installation (on Raspberry Pi OS Lite)
+## Home Assistant Supervised Installation (on Raspberry Pi OS Lite)
 
 > These commands install Docker, required dependencies, and Home Assistant Supervised (non-OS version).
 
@@ -27,7 +27,7 @@ After install, HA will be available at `http://<your_pi_ip>:8123`
 
 ---
 
-## 🖥Display Configuration (`/boot/firmware/config.txt`)
+## Display Configuration (`/boot/firmware/config.txt`)
 
 Add these three lines to enable the 3.5" SPI TFT display:
 
